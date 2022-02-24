@@ -1,3 +1,3 @@
-I am commiting from local machine
+I am commiting from local machinehe 
 
-Testing to user reset commin in local machine
+to chexk the diff command
