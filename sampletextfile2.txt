@@ -1,1 +1,4 @@
 Tring to use reset in local machine
+
+
+relearn diff command
